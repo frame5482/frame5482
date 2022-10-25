@@ -35,7 +35,8 @@ ASROCK B560M PRO 4
 ### Monitor   
 ACER VG240Ybmiix
 
-### Mouse   MX Master 3  
+### Mouse   
+MX Master 3  
 
 ### Keyboard 
 Logitech G213 Prodigy

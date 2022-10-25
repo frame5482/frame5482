@@ -1,25 +1,27 @@
 ### Hi there 👋
 # Name
 FRAME 
-<br>
+
 # Gender
 [spoiler]Secret[/spoiler]
 
-<br>
+
 
 # Age
 18
 
-<br>
+
 # Favorite Games
+
 1.Dark souls
 2.Monster Hunter
 3.The Witcher
 4.Devil May Cry
 5.Dota
 
-<br>
+
 # PC
+
 ### CPU  
  Intel® Core™ i5-11400F
  

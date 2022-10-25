@@ -20,27 +20,27 @@ FRAME
 
 <br>
 # PC
-### CPU
+### CPU  <br>
  Intel® Core™ i5-11400F
  <br>
-### GPU 
+### GPU  <br>
 NVIDIA GeForce GTX 950
 <br>
-### RAM 
+### RAM  <br>
 HyperX FURY 16GB 2666MHz DDR4
 <br>
-### MotherBoard   
+### MotherBoard    <br>
 ASROCK B560M PRO 4
 <br>
-### Monitor  
+### Monitor   <br>
 ACER VG240Ybmiix
 <br>
-### Mouse   MX Master 3 
+### Mouse   MX Master 3  <br>
 <br>
-### Keyboard
+### Keyboard <br>
 Logitech G213 Prodigy
 <br>
-### Microphone 
+### Microphone  <br>
 HyperX QuadCast S RGB
 <br>
 # YouTube

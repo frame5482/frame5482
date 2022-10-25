@@ -1,5 +1,5 @@
 ### Hi there 👋
-background-color: rgb(89, 16, 3);
+
 # Name
 FRAME 
 

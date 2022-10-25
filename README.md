@@ -4,20 +4,21 @@
 
 <!--
 **frame5482/frame5482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-#[h1]Name[/h1]
+#[Name
 FRAME
-#[h1]Gender[/h1]
+#Gender[
 [spoiler]Secret[/spoiler]
-#[h1]Age[/h1]
+#Age
 17
-#[h1]Favorite Games[/h1]
+#Favorite Games
 1.Dark souls
 2.Monster Hunter
 3.The Witcher
 4.Devil May Cry
 5.Dota
-#[h1]PC[/h1]
+#PC
 [b]CPU [/b] Intel® Core™ i5-11400F
 [b]GPU  [/b] NVIDIA GeForce GTX 950
 [b]RAM  [/b] HyperX FURY 16GB 2666MHz DDR4
@@ -26,7 +27,7 @@ FRAME
 [b]Mouse  [/b] MX Master 3
 [b]Keyboard  [/b] Logitech G213 Prodigy
 [b]Microphone [/b]HyperX QuadCast S RGB
-#[h1]YouTube[/h1]
+#YouTube
 https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured
 Here are some ideas to get you started:
 

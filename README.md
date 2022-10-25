@@ -1,14 +1,7 @@
 ### Hi there 👋
-
-![pic](https://github.com/frame5482/frame5482/blob/main/Port%20%E0%B8%A3%E0%B8%B9%E0%B8%9B.png)
-
-<!--
-**frame5482/frame5482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#
-
-#[Name
+#Name
 FRAME
-#Gender[
+#Gender
 [spoiler]Secret[/spoiler]
 #Age
 17
@@ -29,6 +22,13 @@ FRAME
 [b]Microphone [/b]HyperX QuadCast S RGB
 #YouTube
 https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured
+![pic](https://github.com/frame5482/frame5482/blob/main/Port%20%E0%B8%A3%E0%B8%B9%E0%B8%9B.png)
+
+<!--
+**frame5482/frame5482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

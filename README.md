@@ -1,27 +1,51 @@
 ### Hi there 👋
-#Name
-FRAME
-#Gender
+# Name
+FRAME 
+<br>
+# Gender
 [spoiler]Secret[/spoiler]
-#Age
-17
-#Favorite Games
+
+<br>
+
+# Age
+18
+
+<br>
+# Favorite Games
 1.Dark souls
 2.Monster Hunter
 3.The Witcher
 4.Devil May Cry
 5.Dota
-#PC
-[b]CPU [/b] Intel® Core™ i5-11400F
-[b]GPU  [/b] NVIDIA GeForce GTX 950
-[b]RAM  [/b] HyperX FURY 16GB 2666MHz DDR4
-[b]MotherBoard [/b]  ASROCK B560M PRO 4 
-[b]Monitor  [/b]ACER VG240Ybmiix
-[b]Mouse  [/b] MX Master 3
-[b]Keyboard  [/b] Logitech G213 Prodigy
-[b]Microphone [/b]HyperX QuadCast S RGB
-#YouTube
-https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured
+
+<br>
+# PC
+### CPU
+ Intel® Core™ i5-11400F
+ <br>
+### GPU 
+NVIDIA GeForce GTX 950
+<br>
+### RAM 
+HyperX FURY 16GB 2666MHz DDR4
+<br>
+### MotherBoard   
+ASROCK B560M PRO 4
+<br>
+### Monitor  
+ACER VG240Ybmiix
+<br>
+### Mouse   MX Master 3 
+<br>
+### Keyboard
+Logitech G213 Prodigy
+<br>
+### Microphone 
+HyperX QuadCast S RGB
+<br>
+# YouTube
+[YouTube](https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured) <br>
+
 ![pic](https://github.com/frame5482/frame5482/blob/main/Port%20%E0%B8%A3%E0%B8%B9%E0%B8%9B.png)
 
 <!--

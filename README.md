@@ -4,9 +4,7 @@
 FRAME 
 
 # Gender
-Nope
-
-
+Secret
 
 # Age
 18

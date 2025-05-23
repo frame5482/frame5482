@@ -25,7 +25,7 @@ Secret
  Intel® Core™ i5-11400F
  
 ### GPU  
-NVIDIA GeForce GTX 950
+NVIDIA GeForce RTX 3050
 
 ### RAM  
 HyperX FURY 16GB 2666MHz DDR4

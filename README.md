@@ -48,7 +48,7 @@ HyperX QuadCast S RGB
 # YouTube
 [YouTube](https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured) <br>
 
-![pic](https://github.com/frame5482/frame5482/blob/main/Port%20%E0%B8%A3%E0%B8%B9%E0%B8%9B.png)
+![pic](https://github.com/frame5482/frame5482/blob/main/GEN%20post.png)
 
 <!--
 **frame5482/frame5482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

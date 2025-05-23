@@ -1,4 +1,5 @@
 
+![pic](https://github.com/frame5482/frame5482/blob/main/GEN%20post.png)
 
 # Name
 FRAME 
@@ -54,7 +55,6 @@ HyperX QuadCast S RGB
 
 
 
-![pic](https://github.com/frame5482/frame5482/blob/main/GEN%20post.png)
 
 <!--
 **frame5482/frame5482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

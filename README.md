@@ -49,10 +49,6 @@ HyperX QuadCast S RGB
 # YouTube
 [YouTube](https://www.youtube.com/channel/UC57K9QMejcvzrSQYiCrAoRw/featured) <br>
 
-# Pixiv
-
-[Pixiv](https://www.pixiv.net/en/users/37074811) <br>
-
 
 
 
